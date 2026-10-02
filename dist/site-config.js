@@ -4,8 +4,8 @@ window.CHUMZ_CONFIG = {
   stakingAddress: "0x55679d48C4Ba12288fDA9D33815DfC5C81a7683F", // May be empty: discovered from NFT.staking().
   deploymentBlock: 78107691, // Set from the NFT deployment receipt for faster inventory loading.
   walletConnectProjectId: "4f71172824a0ea69b0270161482356fe",
-  twitterUrl: "",
-  openseaUrl: "",
+  twitterUrl: "https://x.com/FomoChumz",
+  openseaUrl: "https://opensea.io/collection/fomochumz",
   rpcUrl: "https://rpc.mainnet.chain.robinhood.com",
   explorerUrl: "https://robinhoodchain.blockscout.com",
   tokenAddress: "0xC8D832DAcBD3eBfC1001fA6383aB99dBf07a13f5",
